@@ -5,7 +5,6 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		// paste your code here
 		// leck meine eier
-		
+		System.out.println("Suck my ballz!");
 	}
-
 }
