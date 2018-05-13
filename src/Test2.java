@@ -6,5 +6,4 @@ public class Test2 {
 		// paste your code here
 		// additional line
 	}
-
 }
